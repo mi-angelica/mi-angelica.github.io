@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto:wght@100;300&family=Splash&family=Vidaloka&display=swap');
+
+body {
+    background-color: #E3A857;
+}
+
+header nav ul li {
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    margin-top: 2em;
+}
+
+header nav ul li a {
+    line-height: 50px;
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    display: block;   
+}
+
+a:hover {
+    color:#ff4500;
+}
+
+.main-title {
+    text-align:center;
+    color: black;
+    font-size: 30px;
+}
+
+#logo {
+    max-height: 80px;
+    clip-path: circle();
+    margin-left: 6em;
+    margin-top: 12px;
+} 
+
+#top-title {
+    /* font-family: 'Roboto', sans-serif; */
+    text-align: center;
+    font-size: 45px;
+}
+
+#magic {
+    font-family: 'Splash', cursive;
+    font-size: 40px;
+    color: black;
+}
+
+#title-start, #title-make, #title-take, #title-food {
+    /* font-family: 'Roboto', sans-serif; */
+    color: black;
+    font-size: 25px;
+}
+
+#mid-title {
+    font-size: 45px;
+    text-align: center;
+} 
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.img-fluid {
+    border-radius: 5px;
+}
+
+ul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+#more-button {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ff4500;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 12px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.credit {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+#copyright {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
